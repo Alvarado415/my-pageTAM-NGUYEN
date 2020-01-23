@@ -1,0 +1,18 @@
+img {
+    width: 300px;
+}
+
+h1:hover {
+    color: red;
+}
+h2{
+    color:#8649cc;}
+
+body {
+    background-color: brown;
+color:black;
+    background: url("https://upload.wikimedia.org/wikipedia/commons/8/8c/TAM_Linhas_A%C3%A9reas_Airbus_A350-941_%28PR-XTA%29_at_Madrid_Barajas_airport.jpg");
+}
+a:hover{
+    color:green;}
+p{font-family: 'Mansalva', cursive;}
